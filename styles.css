@@ -1,12 +1,12 @@
 /* Write your CSS here! */
-a  
-{
-    display:block;
-}
-
-body
+  a
   {
-    margin: 8 px;
+    display: block;
+  }
+
+  body
+  {
+    margin: 8px;
   }
   
   #mainheading
