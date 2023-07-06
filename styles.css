@@ -1,8 +1,12 @@
 /* Write your CSS here! */
-  body
+a  
+{
+    display:block;
+}
+
+body
   {
     margin: 8 px;
-    display: block;
   }
   
   #mainheading
@@ -16,6 +20,11 @@
   }
 
   p
+  {
+    color :black;
+  }
+
+  h1
   {
     color :black;
   }
