@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+  
+
+  body
+  {
+    margin: 8px;
+    display: block;
+  }
+  
+  #mainHeading
+  {
+    color: red;
+  }
+
+  p.funParagraph
+  {
+    color: green;
+  }
+
+  section
+  {
+    display: block;
+  }
+  
+
+  
